@@ -1,10 +1,4 @@
-🔥 Perfect! Since you've deployed the **Gradient Generator App** on **Vercel**, I'll create a professional **README.md** with your live link, full features, setup guide, and tech stack.
 
-Here's a **copy-paste ready `README.md`** 👇
-
-* * * * *
-
-```
 # 🎨 Gradient Generator App
 
 A modern React + Vite application to **generate random linear & radial gradients** instantly.
