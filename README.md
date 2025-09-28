@@ -1,4 +1,3 @@
-
 # 🎨 Gradient Generator App
 
 A modern React + Vite application to **generate random linear & radial gradients** instantly.
@@ -7,11 +6,13 @@ You can **copy the CSS code** of any gradient with one click and use it directly
 ---
 
 ## 🌐 Live Demo
+
 🔗 [Gradient Generator App](https://gradient-generator-react-six.vercel.app/)
 
 ---
 
 ## ✨ Features
+
 - 🎲 Generate unlimited **linear** and **radial** gradients.
 - 🔢 Customize number of gradients (1--50).
 - 📋 Copy gradient CSS code to clipboard.
@@ -23,6 +24,7 @@ You can **copy the CSS code** of any gradient with one click and use it directly
 ---
 
 ## 🛠️ Tech Stack
+
 - **React 18 + Vite** (Frontend Framework)
 - **TailwindCSS** (Utility-first styling)
 - **React-Toastify** (Notifications)
@@ -47,6 +49,7 @@ src/\
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone Repository
+
 ```bash
 git clone https://github.com/your-username/gradient-generator.git
 cd gradient-generator
@@ -69,10 +72,9 @@ npm run dev
 
 Now open 👉 [http://localhost:5173](http://localhost:5173/)
 
-* * * * *
+---
 
-🎮 Usage
---------
+## 🎮 Usage
 
 1.  Enter how many gradients you want to generate (1--50).
 
@@ -82,41 +84,34 @@ Now open 👉 [http://localhost:5173](http://localhost:5173/)
 
 4.  Click **Copy CSS** to copy the gradient background CSS.
 
-* * * * *
+---
 
-📦 Build for Production
------------------------
+## 📦 Build for Production
 
 ```
 npm run build
 
 ```
 
-* * * * *
+---
 
-📸 Screenshots
---------------
+## 📸 Screenshots
 
 <img width="1343" height="593" alt="image" src="https://github.com/user-attachments/assets/0ba23c31-42f6-4407-9749-1f2f0e5bd899" />
 <img width="1343" height="593" alt="image" src="https://github.com/user-attachments/assets/8a1e94bd-8f34-4c33-9059-1df464614df0" />
 
+---
 
+## 🙌 Credits
 
-* * * * *
+- Gradient logic written in pure JavaScript.
 
-🙌 Credits
-----------
+- UI powered by **TailwindCSS**.
 
--   Gradient logic written in pure JavaScript.
+- Notifications with **React-Toastify**.
 
--   UI powered by **TailwindCSS**.
+---
 
--   Notifications with **React-Toastify**.
-
-* * * * *
-
-📝 License
-----------
+## 📝 License
 
 This project is licensed under the **MIT License**.
-
